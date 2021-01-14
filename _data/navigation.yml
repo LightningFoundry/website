@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: "Table Components"
+  - title: "Tables"
     children:
       - title: "Lightning Record Table"
         url: /docs/lightning-record-table/
